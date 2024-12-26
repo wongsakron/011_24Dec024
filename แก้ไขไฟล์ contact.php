@@ -2,10 +2,9 @@ https://codeshare.io/NKQBdd
 <body bgcolor="#CC9900">
     <table width="1238" height="530" border="0">
         <tr>
-            <td width="23" rowspan="2">&nbsp;</td>
-            <td height="119" colspan="2" bgcolor="#006600">
+            <td width=00">
                 <h1><center><font color="#FFFFFF">อพาร์ตเมนต์</font></center></h1>
-                <?php include "Date.php"; ?>
+
             </td>
             <td width="43" rowspan="2">&nbsp;</td>
         </tr>
